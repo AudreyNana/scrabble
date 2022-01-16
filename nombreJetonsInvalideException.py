@@ -1,0 +1,2 @@
+class NombreJetonsInvalideException(Exception):
+    pass

@@ -1,0 +1,2 @@
+class LettreIncorrectException(Exception):
+    pass

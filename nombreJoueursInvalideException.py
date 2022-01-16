@@ -1,0 +1,2 @@
+class NombreJoueursInvalideException(Exception):
+    pass

@@ -1,0 +1,2 @@
+class PreConditionInsatisfaiteException(Exception):
+    pass

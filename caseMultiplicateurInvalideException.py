@@ -1,0 +1,2 @@
+class CaseMultiplicateurInvalideException(Exception):
+    pass

@@ -1,0 +1,2 @@
+class ValeurJetonIncorrectException(Exception):
+    pass

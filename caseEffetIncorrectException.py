@@ -1,0 +1,2 @@
+class CaseEffetIncorrectException(Exception):
+    pass

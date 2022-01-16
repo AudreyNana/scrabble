@@ -1,0 +1,2 @@
+class ChoixUnitaireLigneOuColonneException(Exception):
+    pass
